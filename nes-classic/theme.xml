@@ -3,14 +3,14 @@
     <include>./../pixel.xml</include>
 	
 	<variables>
-		<themeColor>fda504</themeColor>
+		<themeColor>ff0000</themeColor>
+		<selectColor>ff0000</selectColor>
 	</variables>
 
 	<view name="system">
 
 		<image name="background" extra="true">
 			<color>${themeColor}</color>
-			<path>./../art/systems_select.png</path>
 		</image>
 		
 		<image name="console_overlay" extra="true">
@@ -31,7 +31,6 @@
 		
 		<image name="background" extra="true">
 			<color>${themeColor}</color>
-			<path>./../art/systemback.png</path>
 		</image>
 
 		<image name="Border Overlay" extra="true">
@@ -39,8 +38,7 @@
 		</image>		
 	
 		<textlist name="gamelist">
-			<selectorColor>${themeColor}25</selectorColor>
-			<selectedColor>${themeColor}</selectedColor>
+			<selectedColor>${selectColor}</selectedColor>
 		</textlist>
 		
 	</view>
@@ -51,17 +49,12 @@
 			<path>./logo.png</path>
 		</image>
 		
-		<image name="background">
+		<image name="background" extra="true">
 			<color>${themeColor}</color>
 		</image>
 
-		<image name="Border Overlay" extra="true">
-			<path>./../art/border.png</path>
-		</image>		
-	
 		<textlist name="gamelist">
-			<selectorColor>${themeColor}25</selectorColor>
-			<selectedColor>${themeColor}</selectedColor>
+			<selectedColor>${selectColor}</selectedColor>
 		</textlist>
 		
 
@@ -70,7 +63,7 @@
 		</image>
 
 		<text name="System_Desc" extra="true">
-			<text>3DO Interactive Multiplayer. 1993. 24-bit color @ 640x480 pixels.</text>
+			<text>Nintendo Entertainment System. 2016. 25 cores em 256x240 pixels.</text>
 		</text>	
 
 
