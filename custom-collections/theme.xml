@@ -3,8 +3,8 @@
     <include>./../pixel.xml</include>
 	
 	<variables>
-		<themeColor>75C700</themeColor>
-		<selectColor>75C700</selectColor>
+		<themeColor>C89F00</themeColor>
+		<selectColor>ffff00</selectColor>
 	</variables>
 
 	<view name="system">
@@ -63,7 +63,7 @@
 		</image>
 
 		<text name="System_Desc" extra="true">
-			<text>Todos os seus jogos em apenas um lugar.</text>
+			<text>Coletanias de jogos.</text>
 		</text>	
 
 
