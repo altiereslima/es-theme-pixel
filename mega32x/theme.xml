@@ -56,15 +56,8 @@
 		<textlist name="gamelist">
 			<selectedColor>${selectColor}</selectedColor>
 		</textlist>
-		
 
-		<image name="Bottom Console Image" extra="true">
-			<path>./console.png</path>
-		</image>
 
-		<text name="System_Desc" extra="true">
-			<text>Megadrive 32X. Acessorio criado em 1994. 320x240 com 32.768 cores.</text>
-		</text>	
 
 
 	</view>

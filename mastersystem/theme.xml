@@ -56,15 +56,8 @@
 		<textlist name="gamelist">
 			<selectedColor>${selectColor}</selectedColor>
 		</textlist>
-		
 
-		<image name="Bottom Console Image" extra="true">
-			<path>./console.png</path>
-		</image>
 
-		<text name="System_Desc" extra="true">
-			<text>Sega Master System. 1985. 32 cores (de 64 total) em 256x192 pixels.</text>
-		</text>	
 
 
 	</view>

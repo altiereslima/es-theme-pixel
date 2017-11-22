@@ -56,15 +56,8 @@
 		<textlist name="gamelist">
 			<selectedColor>${selectColor}</selectedColor>
 		</textlist>
-		
 
-		<image name="Bottom Console Image" extra="true">
-			<path>./console.png</path>
-		</image>
 
-		<text name="System_Desc" extra="true">
-			<text>Nintendo Virtual Boy. 1995. 4 cores e 32 intensidades em 384x224 pixels.</text>
-		</text>	
 
 	</view>
 	

@@ -56,15 +56,8 @@
 		<textlist name="gamelist">
 			<selectedColor>${selectColor}</selectedColor>
 		</textlist>
-		
 
-		<image name="Bottom Console Image" extra="true">
-			<path>./console.png</path>
-		</image>
 
-		<text name="System_Desc" extra="true">
-			<text>CPU Motorola 68000 13.295MHz, GPU Chip "Tom" 26.59 MHz, Som Chip "Jerry" 26.59 MHz. RAM: 2 MB.</text>
-		</text>	
 
 
 	</view>
